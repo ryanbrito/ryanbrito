@@ -1,13 +1,11 @@
 ![MyBanner](https://github.com/user-attachments/assets/2022d291-bf87-41dc-be89-fd1c52fe1086)<br />
 
 <div id="badges" align="center">
-  </a>
-    <a href="https://www.linkedin.com/in/ryan-brito/" target="_blank" style="text-decoration:none">
+  <a href="https://www.linkedin.com/in/ryan-brito/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  </a>
-    <a href="https://ryanbrito.github.io" target="_blank" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/My%20Portfolio-black?style=for-the-badge" alt="LinkedIn Badge"/>
+  <a href="https://ryanbrito.github.io" target="_blank"">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
 
