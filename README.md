@@ -1,8 +1,13 @@
+![MyBanner](https://github.com/user-attachments/assets/2022d291-bf87-41dc-be89-fd1c52fe1086)<br />
+
+<div id="badges" align="center">
+  </a>
+    <a href="https://www.linkedin.com/in/ryan-brito/" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 ## Hi there! Im Ryan! 👋
-
-![MyBanner]()<br />
-[![Linkedin](img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ryan-brito/)
-
 
 <!--
 **ryanbrito/ryanbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
