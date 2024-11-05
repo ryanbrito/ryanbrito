@@ -11,23 +11,20 @@
 
 ## Hi there! I'm Ryan! 👋
 
-💻 Backend Developer | Data Science Student
+💻 Backend Developer & Data Analyst | Data Science Student
 
-I am a passionate Backend Developer with nearly a year of hands-on experience, specializing in building scalable and efficient systems, such as Microservices and REST APIs. I thrive on learning and growing in the tech space, always looking for ways to expand my skills and knowledge.
+I'm a versatile Backend Developer and Data Analyst with nearly a year of experience building efficient, scalable systems and analyzing data to provide actionable insights. My dual focus allows me to create strong backend infrastructures while leveraging data for business intelligence.
 
-Currently, I am pursuing a degree in Data Science at FIAP, where I'm diving deep into analytics and big data technologies. My experience spans across C#, .NET, Python, Flask, and FastAPI, with a focus on REST APIs, Microservices, and Data Analysis using ElasticSearch, Kibana, and Kafka. I have a strong foundation in both traditional and modern back-end technologies, paired with a curiosity for cloud computing and distributed systems.
+Currently pursuing a degree in Data Science at FIAP, I’m honing my skills in analytics, big data, and BI tools like Power BI. I’m experienced in managing databases such as PostgreSQL and MongoDB and use ElasticSearch and Kibana to transform raw data into valuable information.
 
-Key Technologies I Work With:
-
+Core Skills:
 Backend Development: .NET, C#, Python, Flask, FastAPI
-Data & Analytics: ElasticSearch, Kibana, SQL, MongoDB, SQLite
+Data & BI: Power BI, ElasticSearch, Kibana, PostgreSQL, SQL, MongoDB, SQLite
 DevOps & Infrastructure: Docker, Linux, CLI, Git/GitHub, GitLab
 APIs & Microservices: REST, Kafka, JSON, Swagger
-Tools & Platforms: Visual Studio, VS Code, Jira, Confluence
 
-🌐 Fluent in English and Portuguese, I am comfortable working in diverse, global teams. I am always up for a challenge and committed to growing professionally in the world of IT.
+🌐 Fluent in English and Portuguese, I thrive in diverse teams and am always open to new challenges in IT, BI, and data analysis. Let’s connect if you’re looking for a developer with a data-driven mindset and a passion for continuous learning!🚀
 
-If you're looking to connect with a driven developer who loves learning and contributing to meaningful projects, feel free to reach out! 🚀
 
 <!--
 **ryanbrito/ryanbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
