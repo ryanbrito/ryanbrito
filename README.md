@@ -17,9 +17,9 @@ I turn telemetry into decisions, and incidents into processes that run themselve
 
 - 📊 **99.985%** SLA/SLO compliance, computed automatically with Elasticsearch Transforms
 - 🌎 **20+ applications** monitored across **4 countries**
-- 🧭 **60+ alert rules** standardized and managed as code
+- 🧭 **80+ alert rules** created, standardized and managed as code
 - 🏅 Elastic Certified Kibana Analyst · 🎓 Data Science, FIAP
-- 🗣️ Portuguese · English · Spanish
+- 🗣️ Portuguese (native) · English (bilingual) · Spanish (professional)
 
 ## 🔭 What I do
 
@@ -27,6 +27,7 @@ I turn telemetry into decisions, and incidents into processes that run themselve
 - **Observability at scale:** Elastic Stack, APM, synthetic monitoring and AKS dashboards, so the NOC sees problems before customers do.
 - **Governance and standards:** alert rules as code (80+ reviewed), log and ingest standards, and a process for monitoring identities so cloud metrics don't go dark when secrets expire.
 - **Automation:** a Python compliance checker that scores services against global standards, a rules-to-YAML tool that converts live Kibana rules to IaC in one run, and an incident flow from Slack to Elastic Actions to ServiceNow and Zenoss.
+- **Business partnership:** I take part in business meetings and help shape business decisions, turning SLA and telemetry data into numbers stakeholders can act on.
 - **Enablement:** sprint demos that end in decisions, guides, workshops and onboarding for engineers and SREs.
 
 ## 📈 Data
@@ -34,7 +35,7 @@ I turn telemetry into decisions, and incidents into processes that run themselve
 Two pipelines turn raw application logs into business-level SLA numbers. They feed the SLA dashboards the business reads and the alerts that tell teams to act before a breach.
 
 - **Policies SLA: Transform and Pipeline.** Follows each policy operation (enrollment, update, payment, cancellation) from start to finish and compares it with the contractual time window. Ingest pipelines and Elasticsearch Transforms group the log events of each operation, remove duplicates and produce one record per operation with its SLA status. It feeds compliance dashboards by journey and early-warning alerts on operations at risk of breaching.
-- **Claims SLA: Transform and Pipeline (v2).** Calculates the SLA of every claim in business time only, with one working-hours calendar and with pauses (such as waiting for documents or medical exams) excluded. Each claim has one row with a clear state (awaiting start, pending within or out of SLA, completed within or out of SLA), and a 15-minute heartbeat keeps open claims at most ~17 minutes behind real time. It was validated against thousands of claims checked independently, and it feeds the business dashboards and the alerts that prevent SLA losses.
+- **Claims SLA: Transform and Pipeline.** Calculates the SLA of every claim in business time only, with one working-hours calendar and with pauses (such as waiting for documents or medical exams) excluded. Each claim has one row with a clear state (awaiting start, pending within or out of SLA, completed within or out of SLA), and a 15-minute heartbeat keeps open claims at most ~17 minutes behind real time. It was validated against thousands of claims checked independently, and it feeds the business dashboards and the alerts that prevent SLA losses.
 - **Data reconciliation:** compared hundreds of thousands of policy records across Power BI, SQL and Elastic to find exactly where the sources disagree.
 
 ## 🤖 AI
