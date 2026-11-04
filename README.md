@@ -1,4 +1,5 @@
-<img width="3168" height="792" alt="banner" src="https://github.com/user-attachments/assets/85d64b85-78e7-4da7-9a29-12e60271854e" />
+<img width="3168" height="792" alt="banner2" src="https://github.com/user-attachments/assets/7e8f33c0-0c59-4df8-b0e6-3bd8c08588dd" />
+
 <br />
 
 <div id="badges" align="center">
